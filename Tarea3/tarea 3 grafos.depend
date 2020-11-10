@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1604505070 source:c:\users\melil\desktop\tarea3\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1604740016 c:\users\melil\desktop\tarea3\hashmap.h
+
+1601930384 source:c:\users\melil\desktop\tarea3\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1601929934 c:\users\melil\desktop\tarea3\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1604954979 source:c:\users\melil\desktop\tarea3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	"list.h"
+	<string.h>
+
+1604501470 source:c:\users\pablo julio\desktop\estructura\tarea3\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1604736416 c:\users\pablo julio\desktop\estructura\tarea3\hashmap.h
+
+1601926784 source:c:\users\pablo julio\desktop\estructura\tarea3\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1601926334 c:\users\pablo julio\desktop\estructura\tarea3\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1604957422 source:c:\users\pablo julio\desktop\estructura\tarea3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	"list.h"
+	<string.h>
+
